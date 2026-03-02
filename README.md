@@ -2,7 +2,7 @@
 
 A modern, full-stack web application designed for Umrah and Hajj travel agencies. This platform provides a seamless booking experience for clients and a powerful, real-time administrative dashboard for agency staff to manage registrations efficiently.
 
-![Al-Hijrah Preview](https://via.placeholder.com/1000x500?text=Replace+This+With+Your+Screenshot)
+![Al-Hijrah Preview](<img width="1080" height="1350" alt="Image" src="https://github.com/user-attachments/assets/5ea410c7-14f9-4380-a9a3-f4a266f40e01" />)
 
 ## ✨ Key Features
 
