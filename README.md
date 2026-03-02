@@ -34,5 +34,5 @@ Follow these steps to set up the project locally on your machine.
 * Node.js & NPM
 * MySQL Database
 
-##👨‍💻 Author
+## 👨‍💻 Author
 **Built with ❤️ by Aditya Sulistyo Full-Stack Web Developer**
